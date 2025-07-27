@@ -1,1 +1,1 @@
-// Placeholder for server/helpers/praat_script.praat
+// Placeholder
